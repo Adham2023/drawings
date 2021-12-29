@@ -86,8 +86,8 @@ export default {
         width: window.innerWidth,
         backgroundColor: "black",
       });
-      canvas.setBackgroundColor({source: 'http://fabricjs.com/assets/escheresque_ste.png'}, 
-      canvas.renderAll.bind(canvas));
+      // canvas.setBackgroundColor({source: 'http://fabricjs.com/assets/escheresque_ste.png'}, 
+      // canvas.renderAll.bind(canvas));
     },
     setUpListeners() {
       let isDrwaing = false;
