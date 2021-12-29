@@ -1,6 +1,6 @@
 <template>
   <div class="buttons">
-    <button style="margin-right: 1em" @click="eraseData">Eraser</button>
+    <button style="margin-right: 1em" @click="eraseData">Eraser aa</button>
     <input
       type="color"
       style="margin-right: 1em"
