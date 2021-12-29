@@ -1,7 +1,7 @@
 import io from 'socket.io-client'
 import { fabric } from 'fabric'
 
-const socket = io("http://192.168.242.58:8180")
+const socket = io("https://drawing-io.de.r.appspot.com")
 
 // emitters
 export const emitAdd = obj => {
