@@ -1,8 +1,8 @@
 import io from 'socket.io-client'
 // import { fabric } from 'fabric'
 
-// const socket = io("https://drawing-io.de.r.appspot.com")
-const socket = io("http://192.168.32.58:8180")
+const socket = io("https://drawing-io.de.r.appspot.com")
+// const socket = io("http://192.168.32.58:8180")
 
 export default {
     methods: {
